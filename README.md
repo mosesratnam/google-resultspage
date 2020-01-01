@@ -1,1 +1,1 @@
-Recreat Google search results page.
+Recreate Google search results page.
